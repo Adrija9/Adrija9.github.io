@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Adrija De"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Mumbai,Maharashtra,India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "adrija.de.met20@itbhu.ac.in"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://www.linkedin.com/in/adrija-de-a50592212/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
