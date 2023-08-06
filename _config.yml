@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Adrija De"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Mumbai,Maharashtra,India"
+  bio              : "Research Enthusiast | Mechanical Modelling | Additive Manufacturing"
+  location         : "Mumbai,India"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/adrija-de-a50592212/"
+  linkedin         : "https://www.linkedin.com/in/adrija-de-a50592212/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
