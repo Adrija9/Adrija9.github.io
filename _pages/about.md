@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio"
+title: "Ambition is the path to success. Persistence is the vehicle you arrive in. -Bill Bradley"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
