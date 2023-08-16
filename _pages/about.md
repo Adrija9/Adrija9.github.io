@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adrija De | Portfolio"
+title: "Adrija De - Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
