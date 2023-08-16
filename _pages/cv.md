@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. Tech + M.Tech Integrated Dual Degree student at IIT-BHU, Varanasi, November 2020-Present
+* Higher Secondary Education at Narayana Junior College, 2018-2020
+* Secondary Education at D.A.V. Public School, Mumbai, 2006-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Project Intern 
+  * IIT Roorkee
+  * Project: Synthesis of functionally graded materials using Friction Stir Additive Manufacturing (FSAM)
+  * Supervisor: Professor Vivek Pancholi, Materials & Metallurgical Engineering Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Intern
+  * National University of Singapore (NUS)
+  * Project: Writing a literature review on Additive Manufacturing of Electrochemical Energy Storage Devices
+  * Supervisor: Professor Seeram Ramakrishna, Department of Mechanical Engineering
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills: Mechanical Testing, Heat Treatment, Metallographic sample preparation, synthesis and characterization of polymers, graphene and graphene oxide
+* Instrumentation: Eppendorf Centrifuge, UV-Vis spectrophotometer, FTIR Spectrometer, Tensile Testing, Hardness Testing (Vickers, Rockwell, Brinell, Knoop)
+* Mechanical Design: CAD Modelling in AutoDesk Fusion360
+* Programming Skills: Android Application development using Java
+* Modelling and simulation in MATLAB
+*  Data Wrangling and Data Visualisation in OriginLab software, MATLAB and Excel.
+* Article and journal Report writing using LaTEX Overleaf software
+* Languages: C, C++, Java, Python, SQL, MATLAB
+* Interpersonal skills: Teamwork, leadership and communication skills.
 
 Publications
 ======
