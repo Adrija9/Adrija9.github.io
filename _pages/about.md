@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Ambition is the path to success. Persistence is the vehicle you arrive in. -Bill Bradley"
+title: "Adrija De | Portfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Ambition is the path to success. Persistence is the vehicle you arrive in. -Bill Bradley**
 
 Hello there! I am a passionate and curious metallurgical engineering undergraduate with a keen passion for the fascinating world of mechanical metallurgy, micro-mechanical modelling and additive manufacturing. Currently, I am pursuing my studies at the prestigious Indian Institute of Technology (IIT) BHU Varanasi, India at the Department of Metallurgical Engineering.
 
