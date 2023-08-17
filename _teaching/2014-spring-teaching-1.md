@@ -9,7 +9,6 @@ location: "Kerala, India"
 ---
 
 This project consisted of two sub-projects: one experimental and the other computational. 
-The second project was mainly supplementary work for helping a PhD student in the lab who was working on colour-changing aerogels depending on the moisture content/humidity in the atmosphere. I developed an Android application for a CPC-based glucose sensor that can change colour according to glucose concentration. The developed app displayed the analyte(glucose) concentration according to the colour of the CPC. This logic was then applied to the humidity sensor work. I will be having a publication as a co-author for contribution to this project, the manuscript of which is prepared and will be submitted within the next few months. 
 
 Analyzing the effect of incorporating graphene oxide into colloidal photonic crystals
 ======
