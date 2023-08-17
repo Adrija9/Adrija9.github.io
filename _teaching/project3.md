@@ -2,7 +2,7 @@
 title: "Irreversible thermodynamics-based approach to model flow stress for Monel 400 alloy"
 collection: teaching
 type: "B.Tech Project"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "Department of Metallurgical Engineering, IIT-BHU"
 date: February 2023- Present
 paperurl: 'https://github.com/Adrija9/Adrija9.github.io/files/12370122/UG.Report_Adrija.docx'
