@@ -2,7 +2,7 @@
 title: "Effect of incorporating Graphene Oxide into different Colloidal Photonic Crystals"
 collection: teaching
 type: "Summer Internship Project"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "CSIR-NIIST, Trivandram"
 date: May-July 2022
 location: "Kerala, India"
