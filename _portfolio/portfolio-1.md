@@ -1,6 +1,6 @@
 ---
 title: "Summer Internship'23"
-excerpt: "IIT Roorkee<br/><img src='/images/500x300.png'>"
+excerpt: "IIT Roorkee<br/><img src='/images/sr2023.jpeg'>"
 collection: research internship
 ---
 
