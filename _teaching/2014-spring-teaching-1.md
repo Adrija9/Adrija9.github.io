@@ -17,4 +17,4 @@ In the first project, we synthesised silica colloidal photonic crystals and exam
 Developing an android Application to detect the colour change in colloidal photonic crystals
 ======
 The second project was mainly supplementary work for helping a PhD student in the lab who was working on colour-changing aerogels depending on the moisture content/humidity in the atmosphere. I developed an Android application for a CPC-based glucose sensor that can change colour according to glucose concentration. The developed app displayed the analyte(glucose) concentration according to the colour of the CPC. This logic was then applied to the humidity sensor work. I will be having a publication as a co-author for contribution to this project, the manuscript of which is prepared and will be submitted within the next few months. 
-More details about the project can be found in this report.[Final 4-week report.pdf](https://github.com/Adrija9/Adrija9.github.io/files/12369612/Final.4-week.report.pdf)
+More details about the project can be found in this report.[Final 4-week report.pdf](https://github.com/Adrija9/Adrija9.github.io/files/Final.4-week.report.pdf)
