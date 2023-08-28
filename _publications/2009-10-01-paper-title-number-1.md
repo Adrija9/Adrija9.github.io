@@ -1,12 +1,14 @@
 ---
-title: "Revolutionizing Electrochemical Energy Storage through the Additive Manufacturing Approach: A Comprehensive Review"
+title: "Advances in Additive Manufacturing Techniques for Electrochemical Energy Storage"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Manuscript prepared. To be submitted in August,2023'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Batteries-MDPI'
+paperurl: 'http://academicpages.github.io/files/Manuscript_AM_Adrija.pdf'
 ---
+
+ABSTRACT
+========
 In the present volatile energy storage industry, characterized by its immense market potential and promising future prospects, the integration of novel energy storage materials into cutting-edge technologies such as 3D printed electronics and stretchable micro-electronic devices has become imperative. AM processes, such as vat photopolymerization and material extrusion, are of particular importance for EESD manufacturing as they allow direct multi-material fabrication of controllable architectures. Most of the reviews on 3D printed EESDs have not discussed about fuel cells so far, which is still a challenging area of research. The following review will focus on various AM techniques for EESDs, especially batteries, capacitors, supercapacitors and fuel cells. The review will consider the potential advantages and limitations of AM for EESDs, including factors such as design flexibility, material selection, and manufacturing scalability. Our objective is to evaluate the current research landscape in additive manufacturing of ESDs, and to identify areas where further research is needed to advance the field.
 
