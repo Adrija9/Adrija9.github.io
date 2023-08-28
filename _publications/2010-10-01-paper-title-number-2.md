@@ -6,7 +6,6 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about hybrid aerogels which show thermochromism (change colour with change in humidity of the surrounding environment).'
 venue: 'ACS Sustainable Chemistry & Engineering (Manuscript in preparation)'
-paperurl: 'http://academicpages.github.io/files/Manuscript(HASNA)ACSformat.pdf'
 ---
 
 ABSTRACT
@@ -24,3 +23,5 @@ were carried out to evaluate the overall properties and performance. The reversi
 thermochromism performance of these hybrid aerogels was utilized for visible humidity sensing by
 designing an Android application. This green pathway of aerogel formation can be adopted for 
 many vast areas with diverse metal ions and additives upon requirements. 
+
+**Paper Link**: https://drive.google.com/file/d/1LKSvGj_0MaBqoqpJk1c7mSa4VN8ZkVQS/view?usp=drive_link
