@@ -92,14 +92,15 @@ Achievements
 Relevant Courses
 =======
 **1. Core Courses**
-· Structure of Materials
-· Metallography Techniques
-· Materials Testing (Theory and Practical)
-· Mechanics of Deformation and Fracture
-· Mechanical Behaviour of Materials
-· Materials Processing and technologies
-· Heat Treatment (Theory and Practical)
+* Structure of Materials
+* Metallography Techniques
+* Materials Testing (Theory and Practical)
+* Mechanics of Deformation and Fracture
+* Mechanical Behaviour of Materials
+* Materials Processing and technologies
+* Heat Treatment (Theory and Practical)
+
 **2. Online Courses**
-· Data Analysis with Python- Coursera online course by IBM
-· Introduction to CAD,CAM and CNC Machining- Coursera online course by Autodesk
+* Data Analysis with Python- Coursera online course by IBM
+* Introduction to CAD,CAM and CNC Machining- Coursera online course by Autodesk
 
