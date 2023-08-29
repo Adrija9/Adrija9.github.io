@@ -3,14 +3,14 @@ title: "Reversible thermochromic Cobalt(II) coordinated
 malonic acid/nanocellulose hybrid aerogels as a 
 humidity sensor"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'This paper is about hybrid aerogels which show thermochromism (change colour with change in humidity of the surrounding environment).'
 venue: 'ACS Sustainable Chemistry & Engineering (Manuscript in preparation)'
 ---
 
 ABSTRACT
 ========
-Growing global interest in sustainability have always attracted ‘nanocellulose’ as a green 
+Growing global interest in sustainability has always attracted ‘nanocellulose’ as a green 
 candidate in vast areas of applications. Here, we report Co2+ cation-induced malonic 
 acid/nanocellulose aerogels that show reversible thermochromism. The transition from 
 tetrahedral to octahedral geometry upon the interaction with water molecules in the moisture 
@@ -24,4 +24,4 @@ thermochromism performance of these hybrid aerogels was utilized for visible hum
 designing an Android application. This green pathway of aerogel formation can be adopted for 
 many vast areas with diverse metal ions and additives upon requirements. 
 
-**Paper Link**: https://drive.google.com/file/d/1LKSvGj_0MaBqoqpJk1c7mSa4VN8ZkVQS/view?usp=drive_link
+**Paper Link**: [Manuscript](https://drive.google.com/file/d/1LKSvGj_0MaBqoqpJk1c7mSa4VN8ZkVQS/view?usp=drive_link)
