@@ -2,7 +2,7 @@
 title: "Synthesis of Functionally Gradient Material using Friction Stir Additive Manufacturing"
 collection: teaching
 type: "B.Tech Project"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2022-spring-teaching-2
 venue: "Metallurgical and Materials Engineering Department, IIT Roorkee"
 date: May 2022- July 2023
 ---
