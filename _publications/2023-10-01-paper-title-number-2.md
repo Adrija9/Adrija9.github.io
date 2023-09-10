@@ -5,8 +5,8 @@ humidity sensor"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'This paper is about hybrid aerogels which show thermochromism (change colour with change in humidity of the surrounding environment).'
-venue: 'ACS Sustainable Chemistry & Engineering (Manuscript in preparation)'
 ---
+ACS Sustainable Chemistry & Engineering (Manuscript in preparation)
 
 ABSTRACT
 ========
