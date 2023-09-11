@@ -7,7 +7,6 @@ excerpt: 'This paper is about hybrid aerogels which show thermochromism (change 
 ---
 ACS Sustainable Chemistry & Engineering (Manuscript in preparation)
 
-# permalink: /publication/2023-10-01-paper-title-number-2
 ABSTRACT
 ========
 Growing global interest in sustainability has always attracted ‘nanocellulose’ as a green 
