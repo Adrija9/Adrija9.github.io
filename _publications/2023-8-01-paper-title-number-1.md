@@ -1,6 +1,7 @@
 ---
 title: "Advances in Additive Manufacturing Techniques for Electrochemical Energy Storage"
 collection: publications
+permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'Manuscript prepared. To be submitted in August 2023.
 venue: 'Batteries-MDPI'
 ---
