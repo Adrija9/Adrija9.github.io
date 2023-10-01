@@ -23,4 +23,4 @@ thermochromism performance of these hybrid aerogels was utilized for visible hum
 designing an Android application. This green pathway of aerogel formation can be adopted for 
 many vast areas with diverse metal ions and additives upon requirements. 
 
-**Paper Link**: [Manuscript](https://drive.google.com/file/d/1ozruqwG0Iej51hEIHMS9F-G6SZ9Lm74K/view?usp=sharing)
+
