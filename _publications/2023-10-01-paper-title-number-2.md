@@ -11,9 +11,9 @@ ABSTRACT
 ========
 Growing global interest in sustainability has always attracted ‘nanocellulose’ as a green 
 candidate in vast areas of applications. Here, we report Co2+ cation-induced malonic 
-acid/nanocellulose aerogels that show reversible thermochromism. The transition from 
-tetrahedral to octahedral geometry upon the interaction with water molecules in the moisture 
-is behind this thermochromism. The high surface area behaviour of aerogel structures makes this 
+acid/nanocellulose aerogels that show reversible thermochromism. This thermochromism is behind the transition from
+tetrahedral to octahedral geometry upon the interaction with water molecules in the moisture
+. The high surface area behaviour of aerogel structures makes this 
 phenomenon more enhanced. Co(II) ions and malonic acid as components ensured the 
 coordination and crosslinking functions by employing interactions with an extrinsic number of 
 functional groups in TEMPO-oxidised cellulose nanofibers (TCNF) leading to the formation of 
