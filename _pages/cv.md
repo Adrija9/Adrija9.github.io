@@ -13,7 +13,7 @@ Education
 ======
 * **B. Tech + M.Tech Integrated Dual Degree** in **Metallurgical Engineering** at **IIT-BHU, Varanasi**, November 2020-Present
 
-  **Grade: 9.09/10**
+  **Grade: 9.15/10**
 * Higher Secondary Education at **Narayana Junior College**, 2018-2020
 
   **Grade: 95.08%**
