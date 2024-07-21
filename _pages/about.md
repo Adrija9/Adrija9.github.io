@@ -18,10 +18,10 @@ As a relentless research and space enthusiast, I always wanted to contribute to 
 
 My inquisitive nature and relentless pursuit of knowledge have led me to delve into the depths of mechanical modelling, seeking to unravel the complexities of materials behaviour under different mechanical loading conditions. Through my academic journey, I have honed my analytical and problem-solving skills, allowing me to critically examine data and draw meaningful insights to enhance the performance and reliability of advanced materials.
 
-Seeking Research Internship Opportunities
+Seeking Opportunities
 ======
 I firmly believe in the power of collaboration and the collective brilliance that emerges when passionate minds come together. As an aspiring researcher, I am eager to work alongside seasoned professionals and mentors, ready to contribute my fresh perspective, dedication, and willingness to learn.
 
-I am actively seeking research internship opportunities that align with my research interests in mechanical metallurgy, mechanical modelling and additive manufacturing. If you have exciting projects or opportunities on the horizon, I would be thrilled to be part of the team, contributing my enthusiasm and skills to the pursuit of knowledge and innovation.
+I am actively seeking research and job opportunities that align with my research interests in  mechanical modelling, material characterization and additive manufacturing. If you have exciting projects or opportunities on the horizon, I would be thrilled to be part of the team, contributing my enthusiasm and skills to the pursuit of knowledge and innovation.
 
 **Please feel free to connect with me on LinkedIn or Email!**
